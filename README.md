@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# 2026_winter_TTTTask
-2026 winter training task of RM Electronic Control 2026寒假RoboMaster电控大作业
-=======
 # A TTTTask Repository for RM Electronic Control 2026 Winter Training
 # 2026寒假RM电控培训大作业仓库
 
@@ -16,4 +12,3 @@ This repository contains the TTTTask for the RM Electronic Control 2026 winter t
 
 - visualizing and analyzing results using Bode plot, etc. as requested.
 - 按要求使用Bode图等可视化和分析结果。
->>>>>>> a26c72f (v0.0)

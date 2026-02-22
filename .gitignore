@@ -1,0 +1,10 @@
+# File type
+*.txt
+*.pdf
+
+# VS Code
+/.vscode/
+/2026寒假大作业/
+
+
+
